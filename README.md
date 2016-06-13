@@ -3,6 +3,13 @@ This is a simple example of how React and Redux can be used in to create a clien
 Webpack is used both to provide both a hot-replacement development server, and to deploy sources into a bundle for production. 
 An incredibly simple example test is included.
 
+## Installation
+Navigate your terminal or equivalent to the root directory of the project and simply enter...
+
+```
+npm install
+```
+
 ## Development
 To start the hot-replacement webpack development server enter...
 
