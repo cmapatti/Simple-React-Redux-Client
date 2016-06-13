@@ -5,7 +5,7 @@
   "main": "./src/main.js",
   "repository": {
     "type": "git",
-    "url": "TODO"
+    "url": "https://github.com/cmapatti/eevee"
   },
   "scripts": {
     "build": "NODE_ENV=production webpack -p --config ./webpack.prod.config.js",
