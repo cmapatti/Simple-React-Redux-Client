@@ -33,7 +33,7 @@ npm run test
 ## Lint
 
 If you are new to Lint/this technology stack/programming in general and are wondering why you cannot seem to get the `lint` script you saw in the projects `package.json` to work, it is probably as you do not have the correct modules locally.
-I have all the eslint packages I need installed globally, so they have not been included as dependencies. If you want to give it a go, first enter...
+I have all the `eslint` packages I need installed globally, so they have not been included as dependencies. If you want to give it a go, first enter...
 
 ```
 npm install eslint eslint-plugin-import eslint-config-airbnb eslint-plugin-jsx-a11y eslint-plugin-react -g
