@@ -1,0 +1,19 @@
+html {
+	background-color: #d8c5a1;
+}
+
+body {
+	text-align: center;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #a3854c;
+	margin-top: 10%;
+}
+
+p.smallprint {
+	font-size: 0.9em;
+	font-weight: normal;
+	color: #c5a068;
+	margin-top: 4%;
+}
