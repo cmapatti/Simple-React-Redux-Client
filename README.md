@@ -56,4 +56,4 @@ npm run lint
 
 ## Why Eevee?!
 
-[I have explained all here](http://chrispatti.com/gotta-name-em-all/). This time was actually was not a random pick, I intend to expand on this project to create further examples, having something with alot of possible evolutions was too good to pass up.
+[I have explained all here](http://chrispatti.com/gotta-name-em-all/).
