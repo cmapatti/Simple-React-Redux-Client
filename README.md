@@ -1,4 +1,4 @@
-# Eevee
+# A Simple React/Redux Client
 This is a simple example of how React and Redux can be used in to create a client-side timer application. 
 Webpack is used both to provide both a hot-replacement development server, and to deploy sources into a bundle for production. 
 An incredibly simple example test is included.
@@ -53,7 +53,3 @@ npm run lint
 ```
 
 ...you should see absolutely nothing. Thats a good thing, it means I have kept the project clean. Try entering things like unecessary spaces at the end of lines and random characters into the code and when you rerun the process you will see errors appear.
-
-## Why Eevee?!
-
-[I have explained all here](http://chrispatti.com/gotta-name-em-all/).
